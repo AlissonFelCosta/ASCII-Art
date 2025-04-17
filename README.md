@@ -3,8 +3,7 @@
 Converta **qualquer imagem** em **arte ASCII interativa e personalizável** diretamente do navegador.  
 Uma ferramenta poderosa e open-source com visual moderno, múltiplas opções e suporte a exportação.
 
-![image](https://github.com/user-attachments/assets/e907d48f-43c6-45c6-a10b-d5ea684cbfeb)
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=200&color=gradient&text=ASCII-Art&descSize=30&section=header&reversal=false&textBg=false"/>
 
 ---
 
@@ -26,8 +25,4 @@ Uma ferramenta poderosa e open-source com visual moderno, múltiplas opções e 
 
 ## 🖼️ Exemplo
 
-**Imagem original:**
-
-<img src="assets/exemplo-input.jpg" width="300"/>
-
-**Resultado em ASCII:**
+![image](https://github.com/user-attachments/assets/e907d48f-43c6-45c6-a10b-d5ea684cbfeb)
