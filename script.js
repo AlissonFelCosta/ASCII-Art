@@ -512,6 +512,9 @@ document.getElementById('upload').addEventListener('change', function(e) {
       generateASCII(img);
     };
     img.src = event.target.result;
+    document.getElementById('imagePreview').src = event.target.result;
+    document.getElementById('imagePreview').style.display = "block";
+
   };
   reader.readAsDataURL(file);
 });
@@ -551,7 +554,11 @@ document.getElementById('reset').addEventListener('click', resetSettings);
 document.getElementById('copyBtn').addEventListener('click', function() {
   const asciiText = document.getElementById('ascii-art').textContent;
   navigator.clipboard.writeText(asciiText).then(() => {
-    alert('ASCII Art copied to clipboard!');
+    const toast = document.getElementById("toast");
+    toast.classList.add("show");
+    setTimeout(() => {
+      toast.classList.remove("show");
+    }, 2000);
   }, () => {
     alert('Copy failed!');
   });
