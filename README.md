@@ -22,7 +22,7 @@ Uma ferramenta poderosa e open-source com visual moderno, múltiplas opções e 
 ✅ Copiar ASCII com 1 clique (com toast de feedback)  
 ✅ Totalmente offline – 100% client-side
 
-🔗 **Demo online:** [ascii-art-generator](https://AlissonFelCosta.github.io/ascii-art-generator/)
+🔗 **Demo online:** [ascii-art-generator](https://alissonfelcosta.github.io/ASCII-Art/)
 
 ---
 
