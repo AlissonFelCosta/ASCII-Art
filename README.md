@@ -24,6 +24,8 @@ Uma ferramenta poderosa e open-source com visual moderno, múltiplas opções e 
 
 🔗 **Demo online:** [ascii-art-generator](https://alissonfelcosta.github.io/ASCII-Art/)
 
+<img src="https://github.com/user-attachments/assets/7198ef98-c62e-4335-8953-bf3ee029c577" width="200" height="250">
+
 ---
 
 ## 🖼️ Exemplo
